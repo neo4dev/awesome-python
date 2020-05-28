@@ -106,6 +106,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for administrative interfaces.*
 
 * [ajenti](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
+[![Downloads](https://pepy.tech/badge/ajenti/month)](https://pepy.tech/project/ajenti/month)
 * [django-grappelli](https://grappelliproject.com/) - A jazzy skin for the Django Admin-Interface.
 * [django-jet](https://github.com/geex-arts/django-jet) - Modern responsive template for the Django admin interface with improved functionality.
 * [django-suit](https://djangosuit.com/) - Alternative Django Admin-Interface (free only for Non-commercial use).
