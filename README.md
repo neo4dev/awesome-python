@@ -210,6 +210,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
     * [django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit) - OAuth 2 goodies for Django.
     * [oauthlib](https://github.com/idan/oauthlib) - A generic and thorough implementation of the OAuth request-signing logic.
+[![Downloads](https://pepy.tech/badge/oauthlib/month)](https://pepy.tech/project/oauthlib/month)
+
     * [python-oauth2](https://github.com/joestump/python-oauth2) - A fully tested, abstract interface to creating OAuth clients and servers.
 [![Downloads](https://pepy.tech/badge/oauth2/month)](https://pepy.tech/project/oauth2/month)
 
@@ -330,6 +332,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever.
 * Code Formatters
     * [black](https://github.com/python/black) - The uncompromising Python code formatter.
+[![Downloads](https://pepy.tech/badge/black/month)](https://pepy.tech/project/black/month)
+
     * [yapf](https://github.com/google/yapf) - Yet another Python code formatter from Google.
 [![Downloads](https://pepy.tech/badge/yapf/month)](https://pepy.tech/project/yapf/month)
 
@@ -355,6 +359,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 [![Downloads](https://pepy.tech/badge/fire/month)](https://pepy.tech/project/fire/month)
 
     * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - A library for building powerful interactive command lines.
+[![Downloads](https://pepy.tech/badge/prompt-toolkit/month)](https://pepy.tech/project/prompt-toolkit/month)
+
 * Terminal Rendering
     * [asciimatics](https://github.com/peterbrittain/asciimatics) - A package to create full-screen text UIs (from interactive forms to ASCII animations).
 [![Downloads](https://pepy.tech/badge/asciimatics/month)](https://pepy.tech/project/asciimatics/month)
@@ -376,6 +382,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * Productivity Tools
     * [cookiecutter](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates).
+[![Downloads](https://pepy.tech/badge/cookiecutter/month)](https://pepy.tech/project/cookiecutter/month)
+
     * [doitlive](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal.
 [![Downloads](https://pepy.tech/badge/doitlive/month)](https://pepy.tech/project/doitlive/month)
 
@@ -540,6 +548,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 [![Downloads](https://pepy.tech/badge/bokeh/month)](https://pepy.tech/project/bokeh/month)
 
 * [bqplot](https://github.com/bloomberg/bqplot) - Interactive Plotting Library for the Jupyter Notebook
+[![Downloads](https://pepy.tech/badge/bqplot/month)](https://pepy.tech/project/bqplot/month)
+
 * [Dash](https://plot.ly/products/dash/) - Built on top of Flask, React and Plotly aimed at analytical web applications.
     * [awesome-dash](https://github.com/Acrotrend/awesome-dash)
 * [diagrams](https://github.com/mingrammer/diagrams) - Diagram as Code.
@@ -595,6 +605,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 [![Downloads](https://pepy.tech/badge/cassandra-driver/month)](https://pepy.tech/project/cassandra-driver/month)
 
     * [happybase](https://github.com/wbolster/happybase) - A developer-friendly library for Apache HBase.
+[![Downloads](https://pepy.tech/badge/happybase/month)](https://pepy.tech/project/happybase/month)
+
     * [kafka-python](https://github.com/dpkp/kafka-python) - The Python client for Apache Kafka.
 [![Downloads](https://pepy.tech/badge/kafka-python/month)](https://pepy.tech/project/kafka-python/month)
 
@@ -642,6 +654,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 [![Downloads](https://pepy.tech/badge/ipdb/month)](https://pepy.tech/project/ipdb/month)
 
     * [pdb++](https://github.com/antocuni/pdb) - Another drop-in replacement for pdb.
+[![Downloads](https://pepy.tech/badge/pdbpp/month)](https://pepy.tech/project/pdbpp/month)
+
     * [pudb](https://github.com/inducer/pudb) - A full-screen, console-based Python debugger.
 [![Downloads](https://pepy.tech/badge/pudb/month)](https://pepy.tech/project/pudb/month)
 
@@ -681,6 +695,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 [![Downloads](https://pepy.tech/badge/django-devserver/month)](https://pepy.tech/project/django-devserver/month)
 
     * [flask-debugtoolbar](https://github.com/mgood/flask-debugtoolbar) - A port of the django-debug-toolbar to flask.
+[![Downloads](https://pepy.tech/badge/flask-debugtoolbar/month)](https://pepy.tech/project/flask-debugtoolbar/month)
+
     * [pyelftools](https://github.com/eliben/pyelftools) - Parsing and analyzing ELF files and DWARF debugging information.
 [![Downloads](https://pepy.tech/badge/pyelftools/month)](https://pepy.tech/project/pyelftools/month)
 
@@ -694,6 +710,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 [![Downloads](https://pepy.tech/badge/keras/month)](https://pepy.tech/project/keras/month)
 
 * [mxnet](https://github.com/dmlc/mxnet) - A deep learning framework designed for both efficiency and flexibility.
+[![Downloads](https://pepy.tech/badge/mxnet/month)](https://pepy.tech/project/mxnet/month)
+
 * [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 [![Downloads](https://pepy.tech/badge/torch/month)](https://pepy.tech/project/torch/month)
 
@@ -935,6 +953,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 [![Downloads](https://pepy.tech/badge/django-bootstrap3/month)](https://pepy.tech/project/django-bootstrap3/month)
 
 * [django-bootstrap4](https://github.com/zostera/django-bootstrap4) - Bootstrap 4 integration with Django.
+[![Downloads](https://pepy.tech/badge/django-bootstrap4/month)](https://pepy.tech/project/django-bootstrap4/month)
+
 * [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - A Django app which lets you create beautiful forms in a very elegant and DRY way.
 [![Downloads](https://pepy.tech/badge/django-crispy-forms/month)](https://pepy.tech/project/django-crispy-forms/month)
 
@@ -957,6 +977,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 [![Downloads](https://pepy.tech/badge/funcy/month)](https://pepy.tech/project/funcy/month)
 
 * [more-itertools](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
+[![Downloads](https://pepy.tech/badge/more-itertools/month)](https://pepy.tech/project/more-itertools/month)
+
 * [returns](https://github.com/dry-python/returns) - A set of type-safe monads, tranformers, and composition utilities.
 * [Toolz](https://github.com/pytoolz/toolz) - A collection of functional utilities for iterators, functions, and dictionaries.
 [![Downloads](https://pepy.tech/badge/toolz/month)](https://pepy.tech/project/toolz/month)
@@ -971,10 +993,14 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [curses](https://docs.python.org/3/library/curses.html) - Built-in wrapper for [ncurses](http://www.gnu.org/software/ncurses/) used to create terminal GUI applications.
 * [Eel](https://github.com/ChrisKnott/Eel) - A library for making simple Electron-like offline HTML/JS GUI apps.
+[![Downloads](https://pepy.tech/badge/eel/month)](https://pepy.tech/project/eel/month)
+
 * [enaml](https://github.com/nucleic/enaml) - Creating beautiful user-interfaces with Declarative Syntax like QML.
 [![Downloads](https://pepy.tech/badge/enaml/month)](https://pepy.tech/project/enaml/month)
 
 * [Flexx](https://github.com/zoofIO/flexx) - Flexx is a pure Python toolkit for creating GUI's, that uses web technology for its rendering.
+[![Downloads](https://pepy.tech/badge/flexx/month)](https://pepy.tech/project/flexx/month)
+
 * [Gooey](https://github.com/chriskiehl/Gooey) - Turn command line programs into a full GUI application with one line.
 [![Downloads](https://pepy.tech/badge/gooey/month)](https://pepy.tech/project/gooey/month)
 
@@ -990,6 +1016,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [Tkinter](https://wiki.python.org/moin/TkInter) - Tkinter is Python's de-facto standard GUI package.
 * [Toga](https://github.com/pybee/toga) - A Python native, OS native GUI toolkit.
+[![Downloads](https://pepy.tech/badge/toga/month)](https://pepy.tech/project/toga/month)
+
 * [urwid](http://urwid.org/) - A library for creating terminal GUI applications with strong support for widgets, events, rich colors, etc.
 * [wxPython](https://wxpython.org/) - A blending of the wxWidgets C++ class library with the Python.
 
@@ -1028,6 +1056,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 [![Downloads](https://pepy.tech/badge/geoip/month)](https://pepy.tech/project/geoip/month)
 
 * [geojson](https://github.com/frewsxcv/python-geojson) - Python bindings and utilities for GeoJSON.
+[![Downloads](https://pepy.tech/badge/geojson/month)](https://pepy.tech/project/geojson/month)
+
 * [geopy](https://github.com/geopy/geopy) - Python Geocoding Toolbox.
 [![Downloads](https://pepy.tech/badge/geopy/month)](https://pepy.tech/project/geopy/month)
 
@@ -1083,6 +1113,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 [![Downloads](https://pepy.tech/badge/treq/month)](https://pepy.tech/project/treq/month)
 
 * [urllib3](https://github.com/shazow/urllib3) - A HTTP library with thread-safe connection pooling, file post support, sanity friendly.
+[![Downloads](https://pepy.tech/badge/urllib3/month)](https://pepy.tech/project/urllib3/month)
+
 
 ## Hardware
 
@@ -1130,6 +1162,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 [![Downloads](https://pepy.tech/badge/thumbor/month)](https://pepy.tech/project/thumbor/month)
 
 * [wand](https://github.com/dahlia/wand) - Python bindings for [MagickWand](http://www.imagemagick.org/script/magick-wand.php), C API for ImageMagick.
+[![Downloads](https://pepy.tech/badge/wand/month)](https://pepy.tech/project/wand/month)
+
 
 ## Implementations
 
@@ -1161,6 +1195,10 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Jupyter Notebook (IPython)](https://jupyter.org) - A rich toolkit to help you make the most out of using Python interactively.
     * [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter)
 * [ptpython](https://github.com/jonathanslenders/ptpython) - Advanced Python REPL built on top of the [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit).
+[![Downloads](https://pepy.tech/badge/prompt-toolkit/month)](https://pepy.tech/project/prompt-toolkit/month)
+
+[![Downloads](https://pepy.tech/badge/ptpython/month)](https://pepy.tech/project/ptpython/month)
+
 
 ## Internationalization
 
@@ -1197,6 +1235,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for generating and working with logs.*
 
 * [Eliot](https://github.com/ScatterHQ/eliot) - Logging for complex & distributed systems.
+[![Downloads](https://pepy.tech/badge/eliot/month)](https://pepy.tech/project/eliot/month)
+
 * [logbook](http://logbook.readthedocs.io/en/stable/) - Logging replacement for Python.
 * [logging](https://docs.python.org/3/library/logging.html) - (Python standard library) Logging facility for Python.
 * [raven](https://github.com/getsentry/raven-python) - Python client for Sentry, a log/error tracking, crash reporting and aggregation platform for web applications.
@@ -1217,6 +1257,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [scikit-learn](http://scikit-learn.org/) - The most popular Python library for Machine Learning.
 * [Spark ML](http://spark.apache.org/docs/latest/ml-guide.html) - [Apache Spark](http://spark.apache.org/)'s scalable Machine Learning library.
 * [vowpal_porpoise](https://github.com/josephreisinger/vowpal_porpoise) - A lightweight Python wrapper for [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/).
+[![Downloads](https://pepy.tech/badge/vowpalwabbit/month)](https://pepy.tech/project/vowpalwabbit/month)
+
 * [xgboost](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
 [![Downloads](https://pepy.tech/badge/xgboost/month)](https://pepy.tech/project/xgboost/month)
 
@@ -1364,6 +1406,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 [![Downloads](https://pepy.tech/badge/devpi-client/month)](https://pepy.tech/project/devpi-client/month)
 
 * [localshop](https://github.com/jazzband/localshop) - Local PyPI server (custom packages and auto-mirroring of pypi).
+[![Downloads](https://pepy.tech/badge/localshop/month)](https://pepy.tech/project/localshop/month)
+
 
 ## Permissions
 
@@ -1499,6 +1543,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [NumPy](http://www.numpy.org/) - A fundamental package for scientific computing with Python.
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A chemical toolbox designed to speak the many languages of chemical data.
 * [ObsPy](https://github.com/obspy/obspy/wiki/) - A Python toolbox for seismology.
+[![Downloads](https://pepy.tech/badge//month)](https://pepy.tech/project//month)
+
 * [PyDy](http://www.pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.
 * [PyMC](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit.
 [![Downloads](https://pepy.tech/badge/pymc3/month)](https://pepy.tech/project/pymc3/month)
@@ -1547,6 +1593,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 [![Downloads](https://pepy.tech/badge/python-rapidjson/month)](https://pepy.tech/project/python-rapidjson/month)
 
 * [ultrajson](https://github.com/esnme/ultrajson) - A fast JSON decoder and encoder written in C with Python bindings.
+[![Downloads](https://pepy.tech/badge/ujson/month)](https://pepy.tech/project/ujson/month)
+
 
 ## Serverless Frameworks
 
@@ -1581,6 +1629,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 [![Downloads](https://pepy.tech/badge/xlsxwriter/month)](https://pepy.tech/project/xlsxwriter/month)
 
     * [xlwings](https://github.com/ZoomerAnalytics/xlwings) - A BSD-licensed library that makes it easy to call Python from Excel and vice versa.
+[![Downloads](https://pepy.tech/badge/xlwings/month)](https://pepy.tech/project/xlwings/month)
+
     * [xlwt](https://github.com/python-excel/xlwt) / [xlrd](https://github.com/python-excel/xlrd) - Writing and reading data and formatting information from Excel files.
 * PDF
     * [PDFMiner](https://github.com/euske/pdfminer) - A tool for extracting information from PDF documents.
@@ -1595,6 +1645,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 [![Downloads](https://pepy.tech/badge/mistune/month)](https://pepy.tech/project/mistune/month)
 
     * [Python-Markdown](https://github.com/waylan/Python-Markdown) - A Python implementation of John Gruber’s Markdown.
+[![Downloads](https://pepy.tech/badge/markdown/month)](https://pepy.tech/project/markdown/month)
+
 * YAML
     * [PyYAML](http://pyyaml.org/) - YAML implementations for Python.
 * CSV
@@ -1685,6 +1737,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
     * [Selenium](https://pypi.org/project/selenium/) - Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
     * [sixpack](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
+[![Downloads](https://pepy.tech/badge/sixpack/month)](https://pepy.tech/project/sixpack/month)
+
     * [splinter](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
 [![Downloads](https://pepy.tech/badge/splinter/month)](https://pepy.tech/project/splinter/month)
 
@@ -1751,9 +1805,13 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
     * [pypinyin](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi (漢字) to pinyin (拼音).
     * [textdistance](https://github.com/orsinium/textdistance) - Compute distance between sequences with 30+ algorithms.
+[![Downloads](https://pepy.tech/badge/textdistance/month)](https://pepy.tech/project/textdistance/month)
+
     * [unidecode](https://pypi.org/project/Unidecode/) - ASCII transliterations of Unicode text.
 * Slugify
     * [awesome-slugify](https://github.com/dimka665/awesome-slugify) - A Python slugify library that can preserve unicode.
+[![Downloads](https://pepy.tech/badge/awesome-slugify/month)](https://pepy.tech/project/awesome-slugify/month)
+
     * [python-slugify](https://github.com/un33k/python-slugify) - A Python slugify library that translates unicode to ASCII.
 [![Downloads](https://pepy.tech/badge/python-slugify/month)](https://pepy.tech/project/python-slugify/month)
 
@@ -1793,10 +1851,14 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 [![Downloads](https://pepy.tech/badge/boto3/month)](https://pepy.tech/project/boto3/month)
 
 * [django-wordpress](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
+[![Downloads](https://pepy.tech/badge/the-real-django-wordpress/month)](https://pepy.tech/project/the-real-django-wordpress/month)
+
 * [facebook-sdk](https://github.com/mobolic/facebook-sdk) - Facebook Platform Python SDK.
 [![Downloads](https://pepy.tech/badge/facebook-sdk/month)](https://pepy.tech/project/facebook-sdk/month)
 
 * [google-api-python-client](https://github.com/google/google-api-python-client) - Google APIs Client Library for Python.
+[![Downloads](https://pepy.tech/badge/google-api-python-client/month)](https://pepy.tech/project/google-api-python-client/month)
+
 * [gspread](https://github.com/burnash/gspread) - Google Spreadsheets Python API.
 [![Downloads](https://pepy.tech/badge/gspread/month)](https://pepy.tech/project/gspread/month)
 
@@ -1844,6 +1906,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 [![Downloads](https://pepy.tech/badge/flask-assets/month)](https://pepy.tech/project/flask-assets/month)
 
 * [webassets](https://github.com/miracle2k/webassets) - Bundles, optimizes, and manages unique cache-busting URLs for static resources.
+[![Downloads](https://pepy.tech/badge/webassets/month)](https://pepy.tech/project/webassets/month)
+
 
 ## Web Content Extracting
 
@@ -1860,6 +1924,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 [![Downloads](https://pepy.tech/badge/newspaper3k/month)](https://pepy.tech/project/newspaper3k/month)
 
 * [python-readability](https://github.com/buriy/python-readability) - Fast Python port of arc90's readability tool.
+[![Downloads](https://pepy.tech/badge/readability-lxml/month)](https://pepy.tech/project/readability-lxml/month)
+
 * [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans.
 [![Downloads](https://pepy.tech/badge/requests/month)](https://pepy.tech/project/requests/month)
 
@@ -1878,6 +1944,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries to automate web scraping.*
 
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
+[![Downloads](https://pepy.tech/badge/cola/month)](https://pepy.tech/project/cola/month)
+
 * [feedparser](https://pythonhosted.org/feedparser/) - Universal feed parser.
 * [grab](https://github.com/lorien/grab) - Site scraping framework.
 [![Downloads](https://pepy.tech/badge/grab/month)](https://pepy.tech/project/grab/month)
