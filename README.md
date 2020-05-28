@@ -107,6 +107,10 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [ajenti](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
 [![Downloads](https://pepy.tech/badge/pypattyrn/week)](https://pepy.tech/project/pypattyrn/week)
+[![Downloads](https://pepy.tech/badge/pypattyrn/week)](https://pepy.tech/project/pypattyrn/week)
+[![Downloads](https://pepy.tech/badge/pypattyrn/week)](https://pepy.tech/project/pypattyrn/week)
+[![Downloads](https://pepy.tech/badge/pypattyrn/week)](https://pepy.tech/project/pypattyrn/week)
+[![Downloads](https://pepy.tech/badge/pypattyrn/week)](https://pepy.tech/project/pypattyrn/week)
 * [django-grappelli](https://grappelliproject.com/) - A jazzy skin for the Django Admin-Interface.
 [<img src="https://pepy.tech/badge/pypattyrn/month">](https://pepy.tech/project/pypattyrn/month)
 [<img src="https://pepy.tech/badge/pypattyrn/week">](https://pepy.tech/project/pypattyrn/week)
