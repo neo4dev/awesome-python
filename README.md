@@ -472,6 +472,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data.
 [![Downloads](https://pepy.tech/badge/Blaze/month)](https://pepy.tech/project/Blaze/month)
 * [Open Mining](https://github.com/mining/mining) - Business Intelligence (BI) in Pandas interface.
+[![Downloads](https://pepy.tech/badge/Open Mining/month)](https://pepy.tech/project/Open Mining/month)
 * [Orange](https://orange.biolab.si/) - Data mining, data visualization, analysis and machine learning through visual programming or scripts.
 [![Downloads](https://pepy.tech/badge/Orange/month)](https://pepy.tech/project/Orange/month)
 * [Pandas](http://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
@@ -479,6 +480,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Optimus](https://github.com/ironmussa/Optimus) - Agile Data Science Workflows made easy with PySpark.
 [![Downloads](https://pepy.tech/badge/Optimus/month)](https://pepy.tech/project/Optimus/month)
 * [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS.
+[![Downloads](https://pepy.tech/badge/AWS Data Wrangler/month)](https://pepy.tech/project/AWS Data Wrangler/month)
 
 ## Data Validation
 
@@ -1121,6 +1123,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Pyston](https://github.com/dropbox/pyston) - A Python implementation using JIT techniques.
 [![Downloads](https://pepy.tech/badge/Pyston/month)](https://pepy.tech/project/Pyston/month)
 * [Stackless Python](https://github.com/stackless-dev/stackless) - An enhanced version of the Python programming language.
+[![Downloads](https://pepy.tech/badge/Stackless Python/month)](https://pepy.tech/project/Stackless Python/month)
 
 ## Interactive Interpreter
 
@@ -1129,6 +1132,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [bpython](https://github.com/bpython/bpython) - A fancy interface to the Python interpreter.
 [![Downloads](https://pepy.tech/badge/bpython/month)](https://pepy.tech/project/bpython/month)
 * [Jupyter Notebook (IPython)](https://jupyter.org) - A rich toolkit to help you make the most out of using Python interactively.
+[![Downloads](https://pepy.tech/badge/Jupyter Notebook (IPython)/month)](https://pepy.tech/project/Jupyter Notebook (IPython)/month)
     * [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter)
 * [ptpython](https://github.com/jonathanslenders/ptpython) - Advanced Python REPL built on top of the [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit).
 [![Downloads](https://pepy.tech/badge/ptpython/month)](https://pepy.tech/project/ptpython/month)
@@ -1193,6 +1197,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [scikit-learn](http://scikit-learn.org/) - The most popular Python library for Machine Learning.
 [![Downloads](https://pepy.tech/badge/scikit-learn/month)](https://pepy.tech/project/scikit-learn/month)
 * [Spark ML](http://spark.apache.org/docs/latest/ml-guide.html) - [Apache Spark](http://spark.apache.org/)'s scalable Machine Learning library.
+[![Downloads](https://pepy.tech/badge/Spark ML/month)](https://pepy.tech/project/Spark ML/month)
 * [vowpal_porpoise](https://github.com/josephreisinger/vowpal_porpoise) - A lightweight Python wrapper for [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/).
 [![Downloads](https://pepy.tech/badge/vowpal_porpoise/month)](https://pepy.tech/project/vowpal_porpoise/month)
 * [xgboost](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
@@ -1279,6 +1284,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [django-activity-stream](https://github.com/justquick/django-activity-stream) - Generating generic activity streams from the actions on your site.
 [![Downloads](https://pepy.tech/badge/django-activity-stream/month)](https://pepy.tech/project/django-activity-stream/month)
 * [Stream Framework](https://github.com/tschellenbach/Stream-Framework) - Building news feed and notification systems using Cassandra and Redis.
+[![Downloads](https://pepy.tech/badge/Stream Framework/month)](https://pepy.tech/project/Stream Framework/month)
 
 ## ORM
 
@@ -1286,6 +1292,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * Relational Databases
     * [Django Models](https://docs.djangoproject.com/en/dev/topics/db/models/) - The Django ORM.
+[![Downloads](https://pepy.tech/badge/Django Models/month)](https://pepy.tech/project/Django Models/month)
     * [SQLAlchemy](https://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper.
 [![Downloads](https://pepy.tech/badge/SQLAlchemy/month)](https://pepy.tech/project/SQLAlchemy/month)
         * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy)
@@ -1384,6 +1391,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Refactoring tools and libraries for Python*
 
  * [Bicycle Repair Man](http://bicyclerepair.sourceforge.net/) - Bicycle Repair Man, a refactoring tool for Python.
+[![Downloads](https://pepy.tech/badge/Bicycle Repair Man/month)](https://pepy.tech/project/Bicycle Repair Man/month)
  * [Bowler](https://pybowler.io/) - Safe code refactoring for modern Python.
 [![Downloads](https://pepy.tech/badge/Bowler/month)](https://pepy.tech/project/Bowler/month)
  * [Rope](https://github.com/python-rope/rope) -  Rope is a python refactoring library.
@@ -1440,6 +1448,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [zeroRPC](https://github.com/0rpc/zerorpc-python) - zerorpc is a flexible RPC implementation based on [ZeroMQ](http://zeromq.org/) and [MessagePack](http://msgpack.org/).
 [![Downloads](https://pepy.tech/badge/zeroRPC/month)](https://pepy.tech/project/zeroRPC/month)
 * [RPyC](https://github.com/tomerfiliba/rpyc) (Remote Python Call) - A transparent and symmetric RPC library for Python
+[![Downloads](https://pepy.tech/badge/RPyC/month)](https://pepy.tech/project/RPyC/month)
 
 ## Science
 
@@ -1458,6 +1467,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Colour](http://colour-science.org/) - Implementing a comprehensive number of colour theory transformations and algorithms.
 [![Downloads](https://pepy.tech/badge/Colour/month)](https://pepy.tech/project/Colour/month)
 * [Karate Club](https://github.com/benedekrozemberczki/karateclub) - Unsupervised machine learning toolbox for graph structured data.
+[![Downloads](https://pepy.tech/badge/Karate Club/month)](https://pepy.tech/project/Karate Club/month)
 * [NetworkX](https://networkx.github.io/) - A high-productivity software for complex networks.
 [![Downloads](https://pepy.tech/badge/NetworkX/month)](https://pepy.tech/project/NetworkX/month)
 * [NIPY](http://nipy.org) - A collection of neuroimaging toolkits.
@@ -1465,6 +1475,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [NumPy](http://www.numpy.org/) - A fundamental package for scientific computing with Python.
 [![Downloads](https://pepy.tech/badge/NumPy/month)](https://pepy.tech/project/NumPy/month)
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A chemical toolbox designed to speak the many languages of chemical data.
+[![Downloads](https://pepy.tech/badge/Open Babel/month)](https://pepy.tech/project/Open Babel/month)
 * [ObsPy](https://github.com/obspy/obspy/wiki/) - A Python toolbox for seismology.
 [![Downloads](https://pepy.tech/badge/ObsPy/month)](https://pepy.tech/project/ObsPy/month)
 * [PyDy](http://www.pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.
@@ -1546,6 +1557,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [xlwings](https://github.com/ZoomerAnalytics/xlwings) - A BSD-licensed library that makes it easy to call Python from Excel and vice versa.
 [![Downloads](https://pepy.tech/badge/xlwings/month)](https://pepy.tech/project/xlwings/month)
     * [xlwt](https://github.com/python-excel/xlwt) / [xlrd](https://github.com/python-excel/xlrd) - Writing and reading data and formatting information from Excel files.
+[![Downloads](https://pepy.tech/badge/xlwt](https://github.com/python-excel/xlwt) / [xlrd/month)](https://pepy.tech/project/xlwt](https://github.com/python-excel/xlwt) / [xlrd/month)
 * PDF
     * [PDFMiner](https://github.com/euske/pdfminer) - A tool for extracting information from PDF documents.
 [![Downloads](https://pepy.tech/badge/PDFMiner/month)](https://pepy.tech/project/PDFMiner/month)
@@ -1624,6 +1636,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [nose2](https://github.com/nose-devs/nose2) - The successor to `nose`, based on `unittest2.
 [![Downloads](https://pepy.tech/badge/nose2/month)](https://pepy.tech/project/nose2/month)
     * [Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework.
+[![Downloads](https://pepy.tech/badge/Robot Framework/month)](https://pepy.tech/project/Robot Framework/month)
     * [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
 [![Downloads](https://pepy.tech/badge/unittest/month)](https://pepy.tech/project/unittest/month)
 * Test Runners
